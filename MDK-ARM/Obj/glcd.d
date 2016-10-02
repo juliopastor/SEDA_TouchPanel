@@ -1,0 +1,14 @@
+.\obj\glcd.o: ..\USER\GLCD\GLCD.c
+.\obj\glcd.o: ..\USER\GLCD\GLCD.h
+.\obj\glcd.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h
+.\obj\glcd.o: ..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h
+.\obj\glcd.o: C:\Keil472a\ARM\CMSIS\Include\core_cm3.h
+.\obj\glcd.o: C:\Keil472a\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\glcd.o: C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\glcd.o: C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\glcd.o: ..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\obj\glcd.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h
+.\obj\glcd.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h
+.\obj\glcd.o: ..\USER\GLCD\HzLib.h
+.\obj\glcd.o: C:\Keil472a\ARM\ARMCC\bin\..\include\string.h
+.\obj\glcd.o: ..\USER\GLCD\AsciiLib.h

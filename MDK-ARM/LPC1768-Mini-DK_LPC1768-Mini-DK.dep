@@ -1,0 +1,323 @@
+Dependencies for Project 'LPC1768-Mini-DK', Target 'LPC1768-Mini-DK': (DO NOT MODIFY !)
+F (..\USER\main.c)(0x4F6853C6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\USER\GLCD\GLCD.h)(0x4F684EAA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\USER\TouchPanel\TouchPanel.h)(0x4F6844FE)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E395048)
+F (..\USER\lpc17xx_libcfg.h)(0x4E00941E)()
+F (..\USER\GLCD\GLCD.c)(0x565D64F6)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\glcd.o --omf_browse .\obj\glcd.crf --depend .\obj\glcd.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\USER\GLCD\GLCD.h)(0x4F684EAA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\USER\GLCD\HzLib.h)(0x4CF00CD6)
+I (C:\Keil472a\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\USER\GLCD\AsciiLib.h)(0x4CEFE480)
+F (..\USER\GLCD\HzLib.c)(0x4CF0C8E2)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\hzlib.o --omf_browse .\obj\hzlib.crf --depend .\obj\hzlib.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\USER\GLCD\HzLib.h)(0x4CF00CD6)
+I (C:\Keil472a\ARM\ARMCC\include\string.h)(0x51C819B4)
+F (..\USER\GLCD\AsciiLib.c)(0x4CEFE446)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\asciilib.o --omf_browse .\obj\asciilib.crf --depend .\obj\asciilib.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\USER\GLCD\AsciiLib.h)(0x4CEFE480)
+I (C:\Keil472a\ARM\ARMCC\include\string.h)(0x51C819B4)
+F (..\USER\TouchPanel\TouchPanel.c)(0x4F685366)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\touchpanel.o --omf_browse .\obj\touchpanel.crf --depend .\obj\touchpanel.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\USER\GLCD\GLCD.h)(0x4F684EAA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\USER\TouchPanel\TouchPanel.h)(0x4F6844FE)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\debug_frmwrk.c)(0x4F6498C2)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\debug_frmwrk.o --omf_browse .\obj\debug_frmwrk.crf --depend .\obj\debug_frmwrk.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\debug_frmwrk.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_uart.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_adc.c)(0x4E395046)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_adc.o --omf_browse .\obj\lpc17xx_adc.crf --depend .\obj\lpc17xx_adc.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_adc.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_can.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_can.o --omf_browse .\obj\lpc17xx_can.crf --depend .\obj\lpc17xx_can.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_can.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_clkpwr.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_clkpwr.o --omf_browse .\obj\lpc17xx_clkpwr.crf --depend .\obj\lpc17xx_clkpwr.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\lpc17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_dac.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_dac.o --omf_browse .\obj\lpc17xx_dac.crf --depend .\obj\lpc17xx_dac.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_dac.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_emac.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_emac.o --omf_browse .\obj\lpc17xx_emac.crf --depend .\obj\lpc17xx_emac.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_emac.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_exti.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_exti.o --omf_browse .\obj\lpc17xx_exti.crf --depend .\obj\lpc17xx_exti.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_exti.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_gpdma.c)(0x4E395046)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_gpdma.o --omf_browse .\obj\lpc17xx_gpdma.crf --depend .\obj\lpc17xx_gpdma.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpdma.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_gpio.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_gpio.o --omf_browse .\obj\lpc17xx_gpio.crf --depend .\obj\lpc17xx_gpio.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_i2c.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_i2c.o --omf_browse .\obj\lpc17xx_i2c.crf --depend .\obj\lpc17xx_i2c.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_i2c.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_i2s.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_i2s.o --omf_browse .\obj\lpc17xx_i2s.crf --depend .\obj\lpc17xx_i2s.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_i2s.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_libcfg_default.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_libcfg_default.o --omf_browse .\obj\lpc17xx_libcfg_default.crf --depend .\obj\lpc17xx_libcfg_default.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_mcpwm.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_mcpwm.o --omf_browse .\obj\lpc17xx_mcpwm.crf --depend .\obj\lpc17xx_mcpwm.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_mcpwm.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_nvic.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_nvic.o --omf_browse .\obj\lpc17xx_nvic.crf --depend .\obj\lpc17xx_nvic.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_nvic.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_pinsel.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_pinsel.o --omf_browse .\obj\lpc17xx_pinsel.crf --depend .\obj\lpc17xx_pinsel.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\lpc17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_pwm.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_pwm.o --omf_browse .\obj\lpc17xx_pwm.crf --depend .\obj\lpc17xx_pwm.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pwm.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_qei.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_qei.o --omf_browse .\obj\lpc17xx_qei.crf --depend .\obj\lpc17xx_qei.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_qei.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_rit.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_rit.o --omf_browse .\obj\lpc17xx_rit.crf --depend .\obj\lpc17xx_rit.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_rit.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_rtc.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_rtc.o --omf_browse .\obj\lpc17xx_rtc.crf --depend .\obj\lpc17xx_rtc.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_rtc.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_spi.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_spi.o --omf_browse .\obj\lpc17xx_spi.crf --depend .\obj\lpc17xx_spi.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_spi.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_ssp.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_ssp.o --omf_browse .\obj\lpc17xx_ssp.crf --depend .\obj\lpc17xx_ssp.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_systick.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_systick.o --omf_browse .\obj\lpc17xx_systick.crf --depend .\obj\lpc17xx_systick.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_systick.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_timer.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_timer.o --omf_browse .\obj\lpc17xx_timer.crf --depend .\obj\lpc17xx_timer.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_timer.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_uart.c)(0x4E395046)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_uart.o --omf_browse .\obj\lpc17xx_uart.crf --depend .\obj\lpc17xx_uart.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_uart.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\LPC1700CMSIS_Firmware_Library\source\lpc17xx_wdt.c)(0x4E0093EE)(-c --cpu Cortex-M3 -D__MICROLIB -g -W -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\lpc17xx_wdt.o --omf_browse .\obj\lpc17xx_wdt.crf --depend .\obj\lpc17xx_wdt.d)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_wdt.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h)(0x4E0093F0)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_clkpwr.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h)(0x4E395048)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_libcfg_default.h)(0x4E395048)
+F (..\Libraries\CM3\CoreSupport\core_cm3.c)(0x4DD128FA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\core_cm3.o --omf_browse .\obj\core_cm3.crf --depend .\obj\core_cm3.d)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+F (..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.c)(0x4E395046)(-c --cpu Cortex-M3 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I..\Libraries\LPC1700CMSIS_Firmware_Library\include -I..\Libraries\CM3\DeviceSupport\NXP\LPC17xx -I..\USER -I..\USER\GLCD -I..\USER\TouchPanel-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP-o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
+I (C:\Keil472a\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h)(0x4E395046)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cm3.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h)(0x51C817BA)
+I (C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h)(0x51C817BA)
+I (C:\SEDA\TouchPanel (for LCDA & HY28B-16bit)\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h)(0x4DD128FA)
+F (..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\startup\arm\startup_LPC17xx.s)(0x4DD128FA)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil472a\ARM\RV31\INC-I C:\Keil472a\ARM\CMSIS\Include-I C:\Keil472a\ARM\Inc\NXP--list .\list\startup_lpc17xx.lst --xref -o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
+F (..\readme.txt)(0x544FAAE8)()

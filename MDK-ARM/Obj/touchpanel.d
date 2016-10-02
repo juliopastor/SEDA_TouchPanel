@@ -1,0 +1,13 @@
+.\obj\touchpanel.o: ..\USER\TouchPanel\TouchPanel.c
+.\obj\touchpanel.o: ..\USER\GLCD\GLCD.h
+.\obj\touchpanel.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_gpio.h
+.\obj\touchpanel.o: ..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\LPC17xx.h
+.\obj\touchpanel.o: C:\Keil472a\ARM\CMSIS\Include\core_cm3.h
+.\obj\touchpanel.o: C:\Keil472a\ARM\ARMCC\bin\..\include\stdint.h
+.\obj\touchpanel.o: C:\Keil472a\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\touchpanel.o: C:\Keil472a\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\touchpanel.o: ..\Libraries\CM3\DeviceSupport\NXP\LPC17xx\system_LPC17xx.h
+.\obj\touchpanel.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc_types.h
+.\obj\touchpanel.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_pinsel.h
+.\obj\touchpanel.o: ..\USER\TouchPanel\TouchPanel.h
+.\obj\touchpanel.o: ..\Libraries\LPC1700CMSIS_Firmware_Library\include\lpc17xx_ssp.h
